@@ -6,7 +6,8 @@ body, .content-wrapper {
   }
 
 .profilePic { 
-    width: 174.9x;
+    width: 174.9px;
     height: 207px;
-    flex-shrink: 0;
+    border-radius: 10px
+
 }
