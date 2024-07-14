@@ -5,7 +5,7 @@ body, .content-wrapper {
     height: 100vh;
   }
 
-.profile_pic { 
+.profilePic { 
     width: 200px;
     height: 200px;
     flex-shrink: 0;
