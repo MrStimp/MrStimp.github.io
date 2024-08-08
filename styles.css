@@ -29,7 +29,6 @@ body, .content-wrapper {
 }
 
 .tabs {
-  display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
 }
@@ -66,7 +65,7 @@ body, .content-wrapper {
   color: black
 }
 
-p { 
+.profile p { 
   font-family: Libre Franklin;
   font-size: 18px;
   color: black;
