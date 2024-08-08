@@ -35,3 +35,7 @@ body, .content-wrapper {
   align-items: center;
   flex-direction: row;
 }
+
+.profile p, .profile h1 {
+  display: block;
+}
