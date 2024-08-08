@@ -22,7 +22,7 @@ body, .content-wrapper {
 }
 
 .content {
-  width: 70vh;
+  width: 50vh;
   display: flex;
   position: absolute;
   flex-direction: column;
