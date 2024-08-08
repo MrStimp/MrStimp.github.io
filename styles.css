@@ -48,24 +48,13 @@ body, .content-wrapper {
   flex-direction: row;
 }
 
-.profile .text-container {
-  display: flex;
-  flex-direction: column; 
-  text-align: right;
-  margin-left: auto; 
-}
-
-.profile img { 
-  margin-right: auto; 
-}
-
 .profile .text-container h1 { 
   font-family: Libre Franklin;
   font-size: 80px;
   color: black
 }
 
-.profile .text-container p { 
+p { 
   font-family: Libre Franklin;
   font-size: 18px;
   color: black;
