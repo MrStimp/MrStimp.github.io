@@ -29,7 +29,7 @@ body, .content-wrapper {
 
 .tabs a {
   font-family: Libre Franklin;
-  font-size: 20px;
+  font-size: 24px;
   text-decoration: inherit;
   color: black;
 }
@@ -49,4 +49,10 @@ body, .content-wrapper {
 
 .profile img { 
   margin-right: auto; 
+}
+
+.profile .text-container h1 { 
+  font-family: Libre Franklin;
+  font-size: 80px;
+  color: black
 }
