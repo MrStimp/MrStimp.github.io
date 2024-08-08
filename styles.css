@@ -48,7 +48,7 @@ body, .content-wrapper {
   flex-direction: row;
 }
 
-.profile .text-container h1 { 
+.profile h1 { 
   font-family: Libre Franklin;
   font-size: 80px;
   color: black
