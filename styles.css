@@ -20,12 +20,18 @@ body, .content-wrapper {
   padding: 15vh 20% 15vh 20%;
 }
 
-.tabs{
+.tabs {
   display: flex;
   justify-content: space-between;
   margin-bottom: 10px;
 }
 
-.tabs a{
+.tabs a {
   font-family: Libre Franklin;
+}
+
+.profile { 
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
