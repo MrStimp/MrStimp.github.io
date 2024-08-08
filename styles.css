@@ -47,6 +47,17 @@ body, .content-wrapper {
   flex-direction: row;
 }
 
+.profile .text-container {
+  display: flex;
+  flex-direction: column; 
+  text-align: right;
+  margin-left: auto; 
+}
+
+.profile img{ 
+  margin-right: auto; 
+}
+
 .profile h1 { 
   flex-grow: 1;
   text-align: right;
