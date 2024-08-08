@@ -36,7 +36,13 @@ body, .content-wrapper {
   flex-direction: row;
 }
 
-.profile p, .profile h1 {
+.profile .text-container {
+  display: flex;
+  flex-direction: column; 
   text-align: right;
-  margin: auto;
+  margin-left: auto; 
+}
+
+.profile img{ 
+  margin-right: auto; 
 }
