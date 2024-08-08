@@ -28,6 +28,8 @@ body, .content-wrapper {
 
 .tabs a {
   font-family: Libre Franklin;
+  font-size: 20px;
+  text-decoration: inherit;
 }
 
 .profile { 
