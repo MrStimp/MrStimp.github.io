@@ -8,15 +8,17 @@ html, body, .site-wrapper {
 
 body, .content-wrapper {
   margin: 0rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   }
-  .profilePic { 
-    width : 260.333px;
-    height: 313.333px;
-    border-radius: 10px;
-    flex-shrink: 0
+
+.profilePic { 
+  width : 260.333px;
+  height: 313.333px;
+  border-radius: 10px;
+  flex-shrink: 0
 }
 
 .content {
