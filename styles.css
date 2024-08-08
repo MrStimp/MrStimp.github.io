@@ -3,6 +3,7 @@ body, .content-wrapper {
     justify-content: center;
     align-items: center;
     height: 100vh;
+
   }
 
 .profilePic { 
@@ -10,4 +11,11 @@ body, .content-wrapper {
     height: 207px;
     border-radius: 10px
 
+}
+
+.content {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  padding: 15vh 20% 15vh 20%;
 }
