@@ -14,6 +14,8 @@ body, .content-wrapper {
 
   }
   .profilePic { 
+    width : 260.333px;
+    height: 313.333px;
     border-radius: 10px;
     flex-shrink: 0
 }
