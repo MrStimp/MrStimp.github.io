@@ -6,12 +6,6 @@ body, .content-wrapper {
 
   }
 
-.profilePic { 
-    width: 174.9px;
-    height: 207px;
-    border-radius: 10px
-
-}
 
 .content {
   width: 70vh;
@@ -61,5 +55,4 @@ body, .content-wrapper {
   font-family: Libre Franklin;
   font-size: 18px;
   color: black;
-  width: 75%
 }
