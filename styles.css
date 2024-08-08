@@ -18,11 +18,10 @@ body, .content-wrapper {
   width : 260.333px;
   height: 313.333px;
   border-radius: 10px;
-  flex-shrink: 0
 }
 
 .content {
-  width: 50vh;
+  width: 50%;
   display: flex;
   position: absolute;
   flex-direction: column;
@@ -49,6 +48,8 @@ body, .content-wrapper {
 }
 
 .profile h1 { 
+  flex-grow: 1;
+  text-align: right;
   font-family: Libre Franklin;
   font-size: 80px;
   color: black
