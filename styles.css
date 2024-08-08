@@ -14,7 +14,7 @@ body, .content-wrapper {
 }
 
 .content {
-  width: 40vh;
+  width: 70vh;
   display: flex;
   position: absolute;
   flex-direction: column;
