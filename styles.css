@@ -56,3 +56,10 @@ body, .content-wrapper {
   font-size: 80px;
   color: black
 }
+
+.profile .text-container p { 
+  font-family: Libre Franklin;
+  font-size: 18px;
+  color: black;
+  width: 75%
+}
