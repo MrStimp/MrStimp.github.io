@@ -14,6 +14,7 @@ body, .content-wrapper {
 }
 
 .content {
+  width: 60vh;
   display: flex;
   position: absolute;
   flex-direction: column;
@@ -30,6 +31,7 @@ body, .content-wrapper {
   font-family: Libre Franklin;
   font-size: 20px;
   text-decoration: inherit;
+  color: black;
 }
 
 .profile { 
