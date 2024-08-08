@@ -5,7 +5,12 @@ body, .content-wrapper {
     height: 100vh;
 
   }
+  .profilePic { 
+    width: 50%;
+    height: 50%;
+    border-radius: 10px
 
+}
 
 .content {
   width: 70vh;
