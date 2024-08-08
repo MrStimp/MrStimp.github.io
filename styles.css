@@ -37,5 +37,6 @@ body, .content-wrapper {
 }
 
 .profile p, .profile h1 {
-  display: block;
+  text-align: right;
+  margin: auto;
 }
