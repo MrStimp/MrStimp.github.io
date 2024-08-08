@@ -7,11 +7,10 @@ html, body, .site-wrapper {
 }
 
 body, .content-wrapper {
+  margin: 0rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-
   }
   .profilePic { 
     width : 260.333px;
@@ -31,7 +30,7 @@ body, .content-wrapper {
 .tabs {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .tabs a {
