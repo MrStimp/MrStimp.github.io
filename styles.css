@@ -19,3 +19,13 @@ body, .content-wrapper {
   flex-direction: column;
   padding: 15vh 20% 15vh 20%;
 }
+
+.tabs{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.tabs a{
+  font-family: Libre Franklin;
+}
