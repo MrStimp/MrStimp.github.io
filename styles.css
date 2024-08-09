@@ -34,6 +34,7 @@ body, .content-wrapper {
 }
 
 .tabs a {
+  margin-right: 15px;
   font-family: Libre Franklin;
   font-size: 24px;
   text-decoration: inherit;
