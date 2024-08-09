@@ -6,6 +6,12 @@ h1 {
     color: black
   }
 
+  .card-link {
+    text-decoration: none; 
+    color: inherit; 
+    display: inline-block; 
+}
+
 .card {
     box-sizing: border-box;
     width: 190px;
