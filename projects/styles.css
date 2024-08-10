@@ -52,7 +52,7 @@ h1 {
 
 
 .card-container{
-    width: 190px;
+    width: 200px;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -71,7 +71,12 @@ h3 {
     color: black;
     text-align: center;
     font-style: italic;
-    font-weight: 200;
-    font-size: 14px;
+    font-weight: 300;
+    font-size: 16px;
+}
 
+ul li {
+    font-family: Libre Franklin;
+    list-style-position: inside;
+    font-size: 14px;
 }
