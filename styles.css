@@ -29,7 +29,6 @@ body, .content-wrapper {
 }
 
 .tabs {
-  justify-content: space-between;
   margin-bottom: 20px;
 }
 
