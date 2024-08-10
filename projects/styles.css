@@ -9,6 +9,7 @@ h1 {
 .project-container {
     align-items: center;
     flex-direction: row;
+    display: flex;
 }
 
 .card-link {
