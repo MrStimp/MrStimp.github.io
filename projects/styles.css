@@ -58,3 +58,8 @@ h1 {
     flex-direction: column;
 
 }
+
+h1 { 
+    font-family: Libre Franklin;
+    color: black
+  }
