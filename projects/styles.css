@@ -59,7 +59,16 @@ h1 {
 
 }
 
-h1 { 
+h2 { 
     font-family: Libre Franklin;
     color: black
-  }
+}
+
+h3 {
+    font-family: Libre Franklin;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    
+}
