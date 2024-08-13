@@ -42,6 +42,7 @@ body, .content-wrapper {
 
 .tabs a svg {
   vertical-align: middle; /* Ensures the SVG is vertically aligned */
+  cursor: pointer
 }
 
 .profile { 
