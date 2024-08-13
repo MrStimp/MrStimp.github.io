@@ -40,6 +40,10 @@ body, .content-wrapper {
   color: black;
 }
 
+.tabs a svg {
+  vertical-align: middle; /* Ensures the SVG is vertically aligned */
+}
+
 .profile { 
   display: flex;
   align-items: center;
