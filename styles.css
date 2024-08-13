@@ -41,8 +41,12 @@ body, .content-wrapper {
 }
 
 .tabs a svg {
-  vertical-align: middle; /* Ensures the SVG is vertically aligned */
+  vertical-align: middle; 
   cursor: pointer
+}
+
+.tabs a svg:hover {
+  fill:crimson !important
 }
 
 .profile { 
