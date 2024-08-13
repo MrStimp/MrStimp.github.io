@@ -6,7 +6,7 @@ document.getElementById("emailButton").addEventListener("click", function(){
     navigator.clipboard.writeText(email);
 
     setTimeout(() => {
-        document.getElementById("copyTooltip").style.display = "none";
+        document.getElementById("copyMessage").style.display = "none";
     }, 1500)
 });
     
