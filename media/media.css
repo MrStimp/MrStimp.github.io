@@ -41,7 +41,6 @@
     .profile h1 { 
         text-align: left;
         flex-grow: 1;
-        text-align: right;
         font-family: Libre Franklin;
         font-size: 50px;
         color: black
