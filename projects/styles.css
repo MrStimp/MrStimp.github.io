@@ -17,6 +17,7 @@ h1 {
     display: flex;
     column-gap: 2rem;
     flex-grow: 5;
+    flex-wrap: wrap;
 }
 
 .card-link {
