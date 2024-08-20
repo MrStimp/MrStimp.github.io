@@ -38,10 +38,14 @@
         align-items: baseline;
     }
 
-    h1 {
+    .profile h1 { 
+        flex-grow: 1;
+        text-align: right;
+        font-family: Libre Franklin;
         font-size: 50px;
-        font-style: normal;
-    }
+        color: black
+      }
+      
     
     p {
         text-align: left;
