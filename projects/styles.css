@@ -1,6 +1,8 @@
 .content {
     width: 65%;
     height: 70vh;
+    justify-content: flex-start;
+    overflow: auto;
 }
 
 h1 { 
