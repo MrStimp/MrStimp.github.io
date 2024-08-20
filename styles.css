@@ -67,7 +67,6 @@ body, .content-wrapper {
 }
 
 .profile h1 { 
-  flex-grow: 1;
   text-align: right;
   font-family: Libre Franklin;
   font-size: 80px;
