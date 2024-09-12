@@ -11,6 +11,7 @@
 
     .content {
         width: 70%;
+        overflow: hidden;
     }
 
     .tabs {
